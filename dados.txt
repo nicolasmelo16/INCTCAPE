@@ -1,0 +1,19 @@
+Site acessivel pelos seguintes links:
+* inctenergia.UFSC.BR
+* inctenergia.sites.ufsc.br
+
+* Acesso SFTP:
+Servidor: sftp://nfs.sites.ufsc.br
+Porta: 2200
+Usuário: inctenergia
+Senha: tXKFubu4
+Pasta: public_html
+(OBS.: Para acesso de fora da UFSC, utilizar VPN)
+Recomendamos usar o Filezilla para o acesso. Neste caso, preencha o campo Host com 'sftp://nfs.sites.ufsc.br'.
+
+* Acesso MySQL:
+Host: mysql.sites.ufsc.br
+Banco: inctenergia
+Usuário: inctenergia
+Senha: norrsd4L
+Para gerenciar o banco de dados, use: 'http://pma.setic.ufsc.br/?server=mysql.sites.ufsc.br'
